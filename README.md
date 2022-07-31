@@ -1,9 +1,7 @@
 ![Frame 1](https://user-images.githubusercontent.com/47135307/182042290-e221aed0-1e90-4a27-9f4d-9fe03be222a8.png)
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am a developer passionate about frontend technologies, lover of personal growth in these technologies.<br/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47135307/182042513-46e16492-f7b8-4368-a839-33d5798e10dd.gif" width="400" height="400" />
 
