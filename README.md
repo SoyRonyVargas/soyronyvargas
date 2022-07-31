@@ -5,14 +5,10 @@ I am a developer passionate about frontend technologies, lover of personal growt
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47135307/182042513-46e16492-f7b8-4368-a839-33d5798e10dd.gif" width="400" height="400" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🔭 I’m currently working on Frontend Web Development and little bit backend development.
+- 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
+- ⚡ Fun fact: I 💖 drink cold coffe 24x7.
 
 <h4> Languages </h4>
 <span> 
