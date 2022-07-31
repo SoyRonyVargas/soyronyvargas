@@ -30,7 +30,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   
   <img src="https://img.shields.io/badge/Express.js-F3AB9D?style=for-the-badge&logo=express&logoColor=black">
   <img src="https://img.shields.io/badge/Yarn-F3AB9D?style=for-the-badge&logo=yarn&logoColor=black">
-  <img src="https://img.shields.io/badge/npm-F3AB9D?style=for-the-badge&logo=npm&logoColor=black">
+  <img src="https://img.shields.io/badge/npm-F3AB9D?style=for-the-badge&logo=npm&logoColor=black&Color=black">
   <img src="https://img.shields.io/badge/Node.js-F3AB9D?style=for-the-badge&logo=nodedotjs&logoColor=black">
   <img src="https://img.shields.io/badge/React-F3AB9D?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next-F3AB9D?style=for-the-badge&logo=Next.js&logoColor=black">
@@ -49,9 +49,23 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   <img src="https://img.shields.io/badge/MongoDB-F3AB9D?style=for-the-badge&logo=mongodb&logoColor=black">
 </span>
 
-<h4> IDE </h4>
+<h4> Testing </h4>
+<span>
+  <img src="https://img.shields.io/badge/Cypress-F3AB9D?style=for-the-badge&logo=Cypress&logoColor=black">
+  <img src="https://img.shields.io/badge/Jest-F3AB9D?style=for-the-badge&logo=Jest&logoColor=black">
+</span>
+
+<h4> Deploy </h4>
+<span>
+  <img src="https://img.shields.io/badge/Netlify-F3AB9D?style=for-the-badge&logo=Netlify&logoColor=black">
+  <img src="https://img.shields.io/badge/Heroku-F3AB9D?style=for-the-badge&logo=Heroku&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub Pages-F3AB9D?style=for-the-badge&logo=GitHub+Pages&logoColor=black">
+</span>
+
+<h4> Softwara & IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-F3AB9D?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F3AB9D?style=for-the-badge&logo=git&Color=black&logoColor=black">
 
 <h4> Operating System </h4>
 <span>
