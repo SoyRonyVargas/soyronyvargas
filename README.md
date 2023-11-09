@@ -14,7 +14,7 @@ I am a developer passionate about frontend technologies, lover of personal growt
 
 <h4>Public Notes</h4>
 
-- [GitHub Course Notes]([https://link-url-here.org](https://fate-tote-484.notion.site/Curso-De-Git-GitHub-7e589fccfb91469585d7bab1883e7c87?pvs=4))
+- [GitHub Course Notes](https://fate-tote-484.notion.site/Curso-De-Git-GitHub-7e589fccfb91469585d7bab1883e7c87?pvs=4)
 
 <h4> Contact Me </h4>
 
