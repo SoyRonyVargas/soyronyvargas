@@ -40,59 +40,59 @@ I am a developer passionate about frontend technologies, lover of personal growt
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-F3AB9D?style=for-the-badge&logo=html5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-F3AB9D?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F3AB9D?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-F3AB9D?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Typescript-F3AB9D?style=for-the-badge&logo=Typescript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-4C6E7C?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-4C6E7C?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-4C6E7C?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-4C6E7C?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Typescript-4C6E7C?style=for-the-badge&logo=Typescript&logoColor=black">
   
 </span>
 <h4> Frameworks & Libraries </h4>
 <span>
   
-  <img src="https://img.shields.io/badge/Express.js-F3AB9D?style=for-the-badge&logo=express&logoColor=black">
-  <img src="https://img.shields.io/badge/Yarn-F3AB9D?style=for-the-badge&logo=yarn&logoColor=black">
-  <img src="https://img.shields.io/badge/npm-F3AB9D?style=for-the-badge&logo=npm&logoColor=black&Color=black">
-  <img src="https://img.shields.io/badge/Node.js-F3AB9D?style=for-the-badge&logo=nodedotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/React-F3AB9D?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next-F3AB9D?style=for-the-badge&logo=Next.js&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-F3AB9D?style=for-the-badge&logo=bootstrap&logoColor=black">
-  <img src="https://img.shields.io/badge/Bulma-F3AB9D?style=for-the-badge&logo=Bulma&logoColor=black">
-  <img src="https://img.shields.io/badge/Mui-F3AB9D?style=for-the-badge&logo=MUI&logoColor=black">
-  <img src="https://img.shields.io/badge/Sass-F3AB9D?style=for-the-badge&logo=Sass&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-F3AB9D?style=for-the-badge&logo=Webpack&logoColor=black">
-  <img src="https://img.shields.io/badge/Gulp-F3AB9D?style=for-the-badge&logo=Gulp&logoColor=black">
+  <img src="https://img.shields.io/badge/Express.js-4C6E7C?style=for-the-badge&logo=express&logoColor=black">
+  <img src="https://img.shields.io/badge/Yarn-4C6E7C?style=for-the-badge&logo=yarn&logoColor=black">
+  <img src="https://img.shields.io/badge/npm-4C6E7C?style=for-the-badge&logo=npm&logoColor=black&Color=black">
+  <img src="https://img.shields.io/badge/Node.js-4C6E7C?style=for-the-badge&logo=nodedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/React-4C6E7C?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next-4C6E7C?style=for-the-badge&logo=Next.js&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-4C6E7C?style=for-the-badge&logo=bootstrap&logoColor=black">
+  <img src="https://img.shields.io/badge/Bulma-4C6E7C?style=for-the-badge&logo=Bulma&logoColor=black">
+  <img src="https://img.shields.io/badge/Mui-4C6E7C?style=for-the-badge&logo=MUI&logoColor=black">
+  <img src="https://img.shields.io/badge/Sass-4C6E7C?style=for-the-badge&logo=Sass&logoColor=black">
+  <img src="https://img.shields.io/badge/Webpack-4C6E7C?style=for-the-badge&logo=Webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/Gulp-4C6E7C?style=for-the-badge&logo=Gulp&logoColor=black">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-F3AB9D?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/Firebase-F3AB9D?style=for-the-badge&logo=Firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-F3AB9D?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4C6E7C?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase-4C6E7C?style=for-the-badge&logo=Firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-4C6E7C?style=for-the-badge&logo=mongodb&logoColor=black">
 </span>
 
 <h4> Testing </h4>
 <span>
-  <img src="https://img.shields.io/badge/Cypress-F3AB9D?style=for-the-badge&logo=Cypress&logoColor=black">
-  <img src="https://img.shields.io/badge/Jest-F3AB9D?style=for-the-badge&logo=Jest&logoColor=black">
+  <img src="https://img.shields.io/badge/Cypress-4C6E7C?style=for-the-badge&logo=Cypress&logoColor=black">
+  <img src="https://img.shields.io/badge/Jest-4C6E7C?style=for-the-badge&logo=Jest&logoColor=black">
 </span>
 
 <h4> Deploy </h4>
 <span>
-  <img src="https://img.shields.io/badge/Netlify-F3AB9D?style=for-the-badge&logo=Netlify&logoColor=black">
-  <img src="https://img.shields.io/badge/Heroku-F3AB9D?style=for-the-badge&logo=Heroku&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub Pages-F3AB9D?style=for-the-badge&logo=GitHub+Pages&logoColor=black">
+  <img src="https://img.shields.io/badge/Netlify-4C6E7C?style=for-the-badge&logo=Netlify&logoColor=black">
+  <img src="https://img.shields.io/badge/Heroku-4C6E7C?style=for-the-badge&logo=Heroku&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub Pages-4C6E7C?style=for-the-badge&logo=GitHub+Pages&logoColor=black">
 </span>
 
 <h4> Softwara & IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-F3AB9D?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F3AB9D?style=for-the-badge&logo=git&Color=black&logoColor=black">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-4C6E7C?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img src="https://img.shields.io/badge/Git-4C6E7C?style=for-the-badge&logo=git&Color=black&logoColor=black">
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-F3AB9D?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MacOS-F3AB9D?style=for-the-badge&logo=macos&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-F3AB9D?style=for-the-badge&logo=windows&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-4C6E7C?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/MacOS-4C6E7C?style=for-the-badge&logo=macos&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-4C6E7C?style=for-the-badge&logo=windows&logoColor=black">
 </span>
 
