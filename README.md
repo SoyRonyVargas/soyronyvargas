@@ -1,4 +1,6 @@
-![Frame 1](https://github-production-user-asset-6210df.s3.amazonaws.com/47135307/392027428-f5bd0794-3032-4403-9613-b39ef3aa9501.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241203T152633Z&X-Amz-Expires=300&X-Amz-Signature=6ad5157a970f3291d69da1d22493ea4279a0644921b1f28df3fc1a85ac43b920&X-Amz-SignedHeaders=host)
+
+![hero-compress](https://github.com/user-attachments/assets/85c4c92e-26eb-4cbe-a20a-acfbce96b074)
+
 
 ### About me🧑:
 I am a developer passionate about frontend technologies, lover of personal growth in these technologies.<br/>
