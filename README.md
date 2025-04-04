@@ -1,6 +1,7 @@
 
 ![hero-compress](https://github.com/user-attachments/assets/85c4c92e-26eb-4cbe-a20a-acfbce96b074)
 
+https://gist.github.com/SoyRonyVargas/592f41f659ab8865e66dc090fb2a7306
 
 ### About me🧑:
 I am a developer passionate about frontend technologies, lover of personal growth in these technologies.<br/>
