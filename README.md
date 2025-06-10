@@ -4,8 +4,6 @@
 ### About me🧑:
 I am a developer passionate about frontend technologies, lover of personal growth in these technologies.<br/>
 
-<img align="right" alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47135307/392029308-bb6746a1-8f68-4770-8a7d-245a9acad835.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241203T153118Z&X-Amz-Expires=300&X-Amz-Signature=d6d87c74f084e1124d974ed60d41116713b03cfeb93718aa5a5eb6ee8372465a&X-Amz-SignedHeaders=host" width="400" height="400" />
-
 - 🔭 I’m currently working on Frontend Web Development and little bit backend development.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
