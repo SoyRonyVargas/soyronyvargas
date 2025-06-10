@@ -24,7 +24,7 @@ I am a developer passionate about frontend technologies, lover of personal growt
     <img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/47135307/182044444-630c5375-5f99-427c-8135-cf9710577aaf.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/avispaculonai">
+  <a href="https://www.instagram.com/_rony_vargas_">
     <img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/47135307/182044533-faa068da-5b2c-4914-a5cf-5d362b4090bc.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
