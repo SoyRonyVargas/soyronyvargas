@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/85c4c92e-26eb-4cbe-a20a-acfbce96b074" alt="hero-compress" />
 
-  <h1>Hi there, I'm Rony Vargas! 👋</h1>
   <h3>Full Stack Developer | Specialized in Backend & Node.js</h3>
 </div>
 
