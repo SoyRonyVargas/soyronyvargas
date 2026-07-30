@@ -1,97 +1,88 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/85c4c92e-26eb-4cbe-a20a-acfbce96b074" alt="hero-compress" />
 
-![hero-compress](https://github.com/user-attachments/assets/85c4c92e-26eb-4cbe-a20a-acfbce96b074)
+  <h1>Hi there, I'm Rony Vargas! 👋</h1>
+  <h3>Full Stack Developer | Specialized in Backend & Node.js</h3>
+</div>
 
-### About me🧑:
-I am a developer passionate about frontend technologies, lover of personal growth in these technologies.<br/>
+### 🧑 About me:
+I am a Full Stack Developer with over 4 years of experience participating in the development and evolution of enterprise applications. I am passionate about implementing new features, automating processes, and integrating external services, always focused on delivering efficient, scalable, and high-quality solutions.
 
-- 🔭 I’m currently working on Frontend Web Development and little bit backend development.
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚡ Fun fact: I 💖 drink cold coffe 24x7.
+- 🔭 **I’m currently working on:** Building robust backend architectures, REST APIs, and full-stack enterprise solutions.
+- 🌱 **I’m currently learning:** Cloud infrastructure, continuous integration, and advanced database optimization.
+- 👯 **I’m looking to collaborate on:** Open-source projects and innovative full-stack web applications.
+- 🤔 **I’m looking for help with:** Advanced Open Source Contributions.
+- ⚡ **Fun fact:** I 💖 drinking cold coffee 24/7.
 
 <hr/>
 
-<h4>Public Notes</h4>
+### 🌐 Contact Me & Links
 
-- [GitHub Course Notes](https://fate-tote-484.notion.site/Curso-De-Git-GitHub-7e589fccfb91469585d7bab1883e7c87?pvs=4)
-
-<h4> Contact Me </h4>
-
-<p align="">
-  <a href="https://www.facebook.com/c/soyronyvargas">
-    <img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/47135307/182044444-630c5375-5f99-427c-8135-cf9710577aaf.png"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rony-vargas-212bb2182">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_rony_vargas_">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/47135307/182044533-faa068da-5b2c-4914-a5cf-5d362b4090bc.png"/>
+  <a href="https://soyronyvargas.netlify.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/My_Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://soyronyvargas.netlify.app" alt="Dev Pro Tips Discussion & Support Server">
-    <img width="32px" src="https://user-images.githubusercontent.com/47135307/182044685-c0e28564-ce41-4ce9-a68c-b31953cbd766.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.pinterest.com.mx/slianpoint">
-    <img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://user-images.githubusercontent.com/47135307/182044669-9c075451-6eb7-430a-bf98-1ed0bf21d372.png">
-  </a>
-
 </p>
 
+<hr/>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-4C6E7C?style=for-the-badge&logo=html5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-4C6E7C?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-4C6E7C?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-4C6E7C?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Typescript-4C6E7C?style=for-the-badge&logo=Typescript&logoColor=black">
-  
-</span>
-<h4> Frameworks & Libraries </h4>
-<span>
-  
-  <img src="https://img.shields.io/badge/Express.js-4C6E7C?style=for-the-badge&logo=express&logoColor=black">
-  <img src="https://img.shields.io/badge/Yarn-4C6E7C?style=for-the-badge&logo=yarn&logoColor=black">
-  <img src="https://img.shields.io/badge/npm-4C6E7C?style=for-the-badge&logo=npm&logoColor=black&Color=black">
-  <img src="https://img.shields.io/badge/Node.js-4C6E7C?style=for-the-badge&logo=nodedotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/React-4C6E7C?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next-4C6E7C?style=for-the-badge&logo=Next.js&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-4C6E7C?style=for-the-badge&logo=bootstrap&logoColor=black">
-  <img src="https://img.shields.io/badge/Bulma-4C6E7C?style=for-the-badge&logo=Bulma&logoColor=black">
-  <img src="https://img.shields.io/badge/Mui-4C6E7C?style=for-the-badge&logo=MUI&logoColor=black">
-  <img src="https://img.shields.io/badge/Sass-4C6E7C?style=for-the-badge&logo=Sass&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-4C6E7C?style=for-the-badge&logo=Webpack&logoColor=black">
-  <img src="https://img.shields.io/badge/Gulp-4C6E7C?style=for-the-badge&logo=Gulp&logoColor=black">
-</span>
+### 💻 Tech Stack
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-4C6E7C?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/Firebase-4C6E7C?style=for-the-badge&logo=Firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-4C6E7C?style=for-the-badge&logo=mongodb&logoColor=black">
-</span>
+#### Languages
+<p> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-<h4> Testing </h4>
-<span>
-  <img src="https://img.shields.io/badge/Cypress-4C6E7C?style=for-the-badge&logo=Cypress&logoColor=black">
-  <img src="https://img.shields.io/badge/Jest-4C6E7C?style=for-the-badge&logo=Jest&logoColor=black">
-</span>
+#### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</p>
 
-<h4> Deploy </h4>
-<span>
-  <img src="https://img.shields.io/badge/Netlify-4C6E7C?style=for-the-badge&logo=Netlify&logoColor=black">
-  <img src="https://img.shields.io/badge/Heroku-4C6E7C?style=for-the-badge&logo=Heroku&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub Pages-4C6E7C?style=for-the-badge&logo=GitHub+Pages&logoColor=black">
-</span>
+#### Frontend & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
 
-<h4> Softwara & IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-4C6E7C?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
-<img src="https://img.shields.io/badge/Git-4C6E7C?style=for-the-badge&logo=git&Color=black&logoColor=black">
+#### Databases & ORMs
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+</p>
 
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-4C6E7C?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MacOS-4C6E7C?style=for-the-badge&logo=macos&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-4C6E7C?style=for-the-badge&logo=windows&logoColor=black">
-</span>
+#### DevOps, Cloud & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
 
+#### Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
+</p>
